@@ -1,27 +1,57 @@
-# ClassicFantasyBuilder
+# Classic Fantasy Builder
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+Classic Fantasy Builder is a personal project to learn further about Angular, Bootstrap and Git, while offering a tool for WHFB 6th Edition players to generate their own army lists.
 
-## Development server
+# Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [License](#license)
+- [Contact](#contact)
 
-## Code scaffolding
+## Built With
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular** (v17.3.8)
+- **Bootstrap** (v5.3.3)
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Prerequisites
 
-## Running unit tests
+Make sure you have the following installed on your machine:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [Node.js](https://nodejs.org/)
+- [Angular CLI](https://angular.io/cli)
 
-## Running end-to-end tests
+### Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone the repository:
 
-## Further help
+  ```sh
+  git clone https://github.com/ManuelSanchis/classic-fantasy-builder.git
+  ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+2. Install the dependencies:
+
+  ```sh
+    npm install
+  ```
+
+### Running the Application
+
+To run the application locally, use the Angular CLI:
+
+  ```sh
+    ng serve
+  ```
+
+Open your browser and navigate to `http://localhost:4200/`.
+
+## License  
+Classic Fantasy Builder is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Contact
+Manuel Sanchis Tormo - manuelsanchistormo@gmail.com
+
+Project Link: [https://github.com/ManuelSanchis/classic-fantasy-builder](https://github.com/ManuelSanchis/classic-fantasy-builder)
+

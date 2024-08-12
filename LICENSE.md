@@ -1,0 +1,1 @@
+[Classic Fantasy Builder](https://github.com/ManuelSanchis/classic-fantasy-builder) © 2024 by [Manuel Sanchis Tormo](https://github.com/ManuelSanchis) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

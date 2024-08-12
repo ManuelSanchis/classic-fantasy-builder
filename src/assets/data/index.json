@@ -1,0 +1,58 @@
+[
+  {
+    "id": "altos_elfos",
+    "name": "Altos Elfos"
+  },
+  {
+    "id": "bestias_del_caos",
+    "name": "Bestias del Caos"
+  },
+  {
+    "id": "bretonia",
+    "name": "Bretonia"
+  },
+  {
+    "id": "condes_vampiro",
+    "name": "Condes Vampiro"
+  },
+  {
+    "id": "elfos_oscuros",
+    "name": "Elfos Oscuros"
+  },
+  {
+    "id": "elfos_silvanos",
+    "name": "Elfos Silvanos"
+  },
+  {
+    "id": "el_imperio",
+    "name": "El Imperio"
+  },
+  {
+    "id": "enanos",
+    "name": "Enanos"
+  },
+  {
+    "id": "hombres_lagarto",
+    "name": "Hombres Lagarto"
+  },
+  {
+    "id": "hordas_del_caos",
+    "name": "Hordas del Caos"
+  },
+  {
+    "id": "orcos_y_goblins",
+    "name": "Orcos y Goblins"
+  },
+  {
+    "id": "reinos_ogros",
+    "name": "Reinos Ogros"
+  },
+  {
+    "id": "reyes_funerarios",
+    "name": "Reyes Funerarios"
+  },
+  {
+    "id": "skaven",
+    "name": "Skaven"
+  }
+]
