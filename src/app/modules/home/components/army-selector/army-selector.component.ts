@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 
 import { ArmySelectionService } from '../../../../shared/services/army-selection.service';
-import { Index } from '../../../../interfaces/index.interface';
+import { Index } from '../../../../interfaces/data/index.interface';
 import { IndexService } from '../../services/index.service';
 
 @Component({

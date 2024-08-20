@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 
-import { Index } from '../../../interfaces/index.interface';
+import { Index } from '../../../interfaces/data/index.interface';
 
 @Injectable({providedIn: 'root'})
 export class IndexService {
